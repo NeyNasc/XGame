@@ -41,6 +41,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Arguments\Jogador\AdicionarJogadorRequest.cs" />
+    <Compile Include="Arguments\Jogador\AdicionarJogadorResponse.cs" />
     <Compile Include="Entities\Jogador.cs" />
     <Compile Include="Entities\Jogo.cs" />
     <Compile Include="Entities\JogoPlataforma.cs" />
