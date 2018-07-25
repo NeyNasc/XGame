@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27703.2042
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XGame.Domain", "XGame.Domain\XGame.Domain.csproj", "{DDDE9117-2533-432E-9B37-FCD76CF3CC63}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XGameAppConsole", "XGameAppConsole\XGameAppConsole.csproj", "{18A44FC5-1B5C-494D-8B04-011696488000}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{DDDE9117-2533-432E-9B37-FCD76CF3CC63}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DDDE9117-2533-432E-9B37-FCD76CF3CC63}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DDDE9117-2533-432E-9B37-FCD76CF3CC63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18A44FC5-1B5C-494D-8B04-011696488000}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18A44FC5-1B5C-494D-8B04-011696488000}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18A44FC5-1B5C-494D-8B04-011696488000}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18A44FC5-1B5C-494D-8B04-011696488000}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

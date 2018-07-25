@@ -2,7 +2,7 @@
 {
     public enum EnumSituacaoJogador
     {
-        EmAndamenti = 0,
+        EmAndamento = 0,
         Ativo = 1,
         Bloqueado = 2
     }
