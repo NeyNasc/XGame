@@ -1,6 +1,4 @@
-﻿using System;
-using XGame.Domain.Arguments.Jogador;
-using XGame.Domain.ValueObjects;
+﻿using XGame.Domain.Arguments.Jogador;
 
 namespace XGame.Domain.Interfaces.Services
 {

@@ -54,6 +54,7 @@
     <Compile Include="Enum\EnumSituacaoJogador.cs" />
     <Compile Include="Interfaces\Arguments\IRequest.cs" />
     <Compile Include="Interfaces\Arguments\IResponse.cs" />
+    <Compile Include="Interfaces\Repositories\IRepositoryJogador.cs" />
     <Compile Include="Interfaces\Services\IServicePlataforma.cs" />
     <Compile Include="Interfaces\Services\IServiceJogador.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -63,7 +64,6 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Diagrams\" />
-    <Folder Include="Interfaces\Repositories\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
