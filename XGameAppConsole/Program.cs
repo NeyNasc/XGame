@@ -11,7 +11,12 @@ namespace XGameAppConsole
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Iniciando a aplicação...");
+
             var service = new ServiceJogador();
+
+            Console.WriteLine("Criando instancia do serviço...");
+            Console.WriteLine("Criando instancia do objeto request...");
         }
     }
 }
